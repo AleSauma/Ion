@@ -1,0 +1,7 @@
+{
+  "name": "ION - EV Specialist Garage",
+  "description": "Premium electric vehicle maintenance and body shop in Costa Rica. Expert care for your EV with a focus on performance and sustainability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
